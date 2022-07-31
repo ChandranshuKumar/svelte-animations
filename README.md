@@ -1,0 +1,2 @@
+- Sample [Sveltekit](https://kit.svelte.dev) app
+- Sveltekit + TS + ESLint + Prettier + Husky + SCSS + Docker
